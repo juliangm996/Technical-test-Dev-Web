@@ -1,5 +1,14 @@
 # Technical-test-TP-Dev-Web-V2
 
+## Available Scripts
+
+In the project directory, you can run:
+
+### `yarn start` for Front-End
+### `dotnet run` form Back-End
+
+
+
 **Description of the challenge:**
 
   Develop a web application that requests an identification number and consumes a service to validate that the company can register through a web form.

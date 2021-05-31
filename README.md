@@ -4,8 +4,8 @@
 
 In the project directory, you can run:
 
-### `yarn start` for Front-End
-### `dotnet run` form Back-End
+### `yarn start` from Front-End
+### `dotnet run` from Back-End
 
 
 
